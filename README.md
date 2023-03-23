@@ -7,8 +7,8 @@ The program implements a navigator. A user can:
 
 Here are some screenshots of the program:
 
-![alt image](./pics/image (1).png)
+![alt image](./pics/image1.png)
 
-![alt image](./pics/image (2).png)
+![alt image](./pics/image2.png)
 
-![alt image](./pics/image (3).png)
+![alt image](./pics/image3.png)
